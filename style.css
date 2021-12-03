@@ -1,0 +1,90 @@
+    .container {
+        margin: auto;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .label {
+        margin: 10;
+        font-size: 1.14285714em;
+        font-weight: 400;
+    }
+
+    .silverAds {
+        background-image: url("..//Test/images/home_bg.jpg");
+        height: 100%;
+        margin: 0px 0px 20px 0px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+
+    .adContent {
+        padding: 80px 80px 0px 65px;
+        width: 100%;
+        text-align: center;
+        background-color: darkslategray;
+    }
+
+    .button {
+        font-size: 25px;
+        text-align: center;
+    }
+
+body {
+    font-family: 'Sans-serif';
+}
+
+    .page-header {
+        text-align: left;
+    }
+
+    .menu-box {
+        text-align: end;
+    }
+
+    .input-icon i {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        cursor: default;
+        position: absolute;
+    }
+
+    .services-description {
+        border-bottom: 5px solid #095495;}
+
+.short{
+    max-width: 100px;
+    outline-color: #095495;
+}
+
+
+    .label {
+        background-color: #095495;
+         display: inline-block;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: .5px;
+        color: #fff;
+        text-transform: uppercase;
+        height: 26px;
+        min-width: 65px;
+        padding: 0 10px;
+        text-align: end;
+        border-radius: 50px;
+        position: relative;
+        z-index: 3;
+        align-items: flex-end;
+
+        
+      }
+      .label1{
+          margin-left:400px;
+      }
+      .header{
+        text-align:start;
+      }
